@@ -1,3 +1,7 @@
+/**
+ * Página principal del proyecto
+ */
+
 const {crearArchivo} = require('./helpers/multiplicar');
 
 const argv = require('./config/yargs');
